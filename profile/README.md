@@ -3,8 +3,8 @@ Halo, terima kasih sudah mengunjungi tim kami. Kami mengerjakan project ini kepe
 
 # Team Project 🟦
 
-| Nama                      | Role                          |
-|---------------------------|--------------------------------|
+| Nama                      | Role                          | Focus                   |
+|---------------------------|--------------------------------|--------------------------------|
 | Muhammad Alif             | Head Team Developer | Backend  |
 | Muhammad Faqih Ajiputra   | Support Developer | Backend    |
 | Dinda Ayu Aprilia         | Main Developer | Backend       |
