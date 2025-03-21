@@ -6,6 +6,7 @@ Halo, terima kasih sudah mengunjungi tim kami. Kami mengerjakan project ini kepe
 | Nama                      | Role                          | Focus                   |
 |---------------------------|--------------------------------|--------------------------------|
 | Muhammad Alif             | Head Team Developer | Backend  |
+| Andi Zahrina Athirah Ahmad | Support Developer | Secretary & Treasurer |
 | Muhammad Faqih Ajiputra   | Support Developer | Backend    |
 | Dinda Ayu Aprilia         | Main Developer | Backend       |
 | Vista Mellyna Atsfi       | Support Developer | Front End  |
