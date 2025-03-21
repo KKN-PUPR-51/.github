@@ -10,6 +10,8 @@ Halo, terima kasih sudah mengunjungi tim kami. Kami mengerjakan project ini kepe
 | Dinda Ayu Aprilia         | Main Developer | Backend       |
 | Vista Mellyna Atsfi       | Support Developer | Front End  |
 | Surya Abdi Febrianto      | Support Developer | Front End  |
+| Muhammad Rizky Putra Pratama      | Support Developer  | Public Relation  |
+| Miftahul Huda     | Support Developer | Public Relation  |
 
 # Estimate Project Progression ⌛
 Among 46 days.
