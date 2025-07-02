@@ -14,6 +14,8 @@ Halo, terima kasih sudah mengunjungi tim kami. Kami mengerjakan project ini kepe
 | Surya Abdi Febrianto | Support Developer | Front End |
 | Muhammad Rizky Putra Pratama | Support Developer | Public Relation |
 | Muhammad Arya Setyawan | Support Developer | Public Relation |
+| Ahmad Sudarsono | Mentor | - |
+
 
 # Estimate Project Progression ⌛
 Among 46 days.
