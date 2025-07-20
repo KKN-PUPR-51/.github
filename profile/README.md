@@ -11,7 +11,7 @@ Halo, terima kasih sudah mengunjungi tim kami. Kami mengerjakan project ini kepe
 | Andi Zahrina Athirah Ahmad | Support Developer | Secretary & Treasurer |
 | Rangga Kristiawan | Support Developer | UI UX |
 | Vista Mellyna Atsfi | Support Developer | Front End |
-| Surya Abdi Febrianto | Support Developer | Front End |
+| Surya Abdi Febrianto | Support Developer | Front End and Design |
 | Muhammad Rizky Putra Pratama | Support Developer | Public Relation |
 | Muhammad Arya Setyawan | Support Developer | Public Relation |
 | Ahmad Sudarsono | Mentor | - |
