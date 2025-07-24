@@ -1,5 +1,5 @@
 # WELCOME 👋
-Halo, terima kasih sudah mengunjungi tim kami. Kami mengerjakan project ini keperluan untuk penyetaraan KKN kami.
+Halo, terima kasih sudah mengunjungi tim PKM kami. Kami mengerjakan project ini keperluan untuk penyetaraan KKN kami.
 
 # Team Project 🟦
 
